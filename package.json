@@ -1,0 +1,22 @@
+{
+  "name": "spammer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "sudo /home/unknownuser/.nvm/versions/node/v16.13.2/bin/node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.2",
+    "express-handlebars": "^6.0.2",
+    "morgan": "^1.10.0",
+    "node-fetch": "^2.6.7",
+    "path": "^0.12.7",
+    "socket.io": "^4.4.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
